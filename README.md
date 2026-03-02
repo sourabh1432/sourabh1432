@@ -1,75 +1,85 @@
 <h1 align="center">Hi 👋, I'm Sourabh</h1>
-<h3 align="center">💻 Aspiring Data Analyst | SQL | Excel | MySQL | Python</h3>
+<h3 align="center">📊 Data Analyst | SQL • MySQL • Excel • Python</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-100+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/sourabh1432?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=sourabh1432&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Passionate about **Data Analytics & Database Management**
-- 📊 Skilled in **SQL, MySQL, Excel, Data Analysis**
-- 📚 Currently learning **Python for Data Analysis**
-- 🎯 Goal: Become a Professional Data Analyst
-- 📍 India
+🎯 Aspiring Data Analyst passionate about turning raw data into meaningful insights.  
+📊 Strong foundation in SQL, MySQL & Excel dashboard creation.  
+🐍 Currently learning Python for Data Analysis.  
+📈 Interested in Data Visualization & Business Intelligence.  
+📍 Based in India  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
+  
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 
 </p>
 
-- 📊 Excel Dashboard Creation  
-- 🗄️ Database Design & Normalization  
-- 📈 Analytical SQL Queries  
-- 📑 Data Cleaning & Reporting  
+<p align="center">
+<b>SQL</b> • <b>MySQL</b> • <b>Excel</b> • <b>Python</b> • <b>Data Analysis</b> • <b>Dashboard Design</b>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 📂 Featured Projects
 
 ### 🏥 Hospital Management System (MySQL)
-- Database designed using normalization
-- Advanced SQL queries for analytics
-- ER Diagram & Structured Tables
-
-### 📊 Excel Sales Dashboard
-- Interactive dashboard
-- Sales performance analysis
-- Data visualization using charts
+✔️ Designed normalized relational database  
+✔️ Created advanced analytical SQL queries  
+✔️ Developed ER diagram & structured tables  
+✔️ Optimized queries for reporting  
 
 ---
 
-## 📈 GitHub Stats
+### 📊 Excel Sales Dashboard
+✔️ Built interactive sales dashboard  
+✔️ Performed sales performance analysis  
+✔️ Used pivot tables & charts for visualization  
+✔️ Delivered actionable business insights  
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sourabh1432&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sourabh1432&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh1432&theme=github-dark&hide_border=true" />
 </p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🔹 Master Python for Data Analytics  
+- 🔹 Learn Power BI / Tableau  
+- 🔹 Build 5+ Real-world Data Projects  
+- 🔹 Contribute to Open Source  
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">✨ Keep Learning | Keep Building | Keep Growing ✨</h3>
+<h3 align="center">✨ Transforming Data Into Insights ✨</h3>
